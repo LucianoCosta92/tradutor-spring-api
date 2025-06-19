@@ -1,5 +1,4 @@
 # Tradutor Spring Boot com uso de Google Cloud Translation API
 
-![2025-06-05_20-56](https://github.com/user-attachments/assets/4db7747d-a478-4787-97a1-04a7aa126d8c)
-
+![img](https://github.com/user-attachments/assets/e7cb4361-9dfa-48cf-83c4-ea979a90ae16)
 
